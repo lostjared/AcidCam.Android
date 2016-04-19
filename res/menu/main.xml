@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lostsidedead.acidcam.MainActivity" >
+
+   <item android:id="@+id/moveleft" android:title="Move Left"/>
+   <item android:id="@+id/moveright" android:title="Move Right" />
+   <item android:id="@+id/takesnapshot" android:title="Take snapshot" />
+   <item android:id="@+id/switchcam" android:title="Switch Camera" />
+   <item android:id="@+id/flipi" android:title="Flip Image" />
+</menu>
